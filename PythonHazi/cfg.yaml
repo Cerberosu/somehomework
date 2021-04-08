@@ -1,0 +1,8 @@
+data_file: ./Data/test_output.json
+fields:
+- field_name: neptun_code
+  label: Neptun code
+- field_name: result
+  label: Result [%]
+- field_name: mark
+  label: Mark [1-5]
