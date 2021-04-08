@@ -1,2 +1,2 @@
 # somehomework
-Add Confguration settings to Main and run.
+Add Configuration settings to Main and run.
